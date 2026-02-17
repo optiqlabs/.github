@@ -1,18 +1,18 @@
 ![OptiqSolution Banner](../assets/optiq-banner.png)
 
 <div align="center">
-  <p style="font-size: 30px">Optiq Solution</p>
+  <p style="font-size: 30px">Optiq Labs</p>
   <strong>Clarity. Precision. Intelligence.</strong>
   <br><br>
-  <a href="https://optiqsolution.com">🌐 Website</a> •
-  <a href="https://optiqsolution.com#contact-us">📧 Contact</a> •
-  <a href="https://optiqsolution.com#our-services">🚀 Services</a> •
+  <a href="https://optiqlabs.com">🌐 Website</a> •
+  <a href="https://optiqlabs.com#contact-us">📧 Contact</a> •
+  <a href="https://optiqlabs.com#our-services">🚀 Services</a> •
 </div>
 
 
-## 🎯 About OptiqSolution
+## 🎯 About Optiq Labs
 
-At **OptiqSolution**, we deliver cutting-edge technology solutions that bring **clarity** to complex challenges, **precision** to every implementation, and **intelligence** to drive your business forward. We are committed to transforming how organizations leverage technology to achieve their strategic objectives.
+At **Optiq Labs**, we deliver cutting-edge technology solutions that bring **clarity** to complex challenges, **precision** to every implementation, and **intelligence** to drive your business forward. We are committed to transforming how organizations leverage technology to achieve their strategic objectives.
 
 Our mission is to empower businesses with innovative, reliable, and scalable solutions that deliver measurable results and sustainable growth.
 
@@ -46,7 +46,7 @@ Our mission is to empower businesses with innovative, reliable, and scalable sol
 
 ---
 
-## 💡 Why Choose OptiqSolution?
+## 💡 Why Choose Optiq Labs?
 
 <table>
 <tr>
@@ -85,14 +85,14 @@ Our mission is to empower businesses with innovative, reliable, and scalable sol
 
 **Ready to transform your business with intelligent technology solutions?**
 
-📧 **Email:** [contact@optiqsolution.com](mailto:info@optiqsolution.com)  
-🌐 **Website:** [www.optiqsolution.com](https://optiqsolution.com)  
+📧 **Email:** [hello@optiqsolution.com](mailto:hello@optiqsolution.com)  
+🌐 **Website:** [www.optiqlabs.com](https://optiqlabs.com)  
 📱 **Phone:** +1 (905) 981-8019  
 📍 **Address:** Remote
 
 ---
 
 <div align="center">
-  <strong>OptiqSolution - Where Technology Meets Excellence</strong><br>
+  <strong>Optiq Labs - Where Technology Meets Excellence</strong><br>
   <em>Clarity. Precision. Intelligence.</em>
 </div>
